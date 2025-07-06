@@ -464,7 +464,6 @@ p{
 .curr-music-details{
     width: 100%;
     padding-inline: 16%;
-    position: relative;
     & .play-text{
         margin-top: 2rem;
     }
@@ -477,14 +476,12 @@ p{
     }
 }
 .btns-likes-share{
-    position: absolute;
     left: 58%;
     top: 0rem;
 
     & .icons {
         height: 3.5rem;
         font-size: 1.5rem;
-        background-color: transparent;
         
     }
     }
@@ -507,4 +504,11 @@ p{
         }
     }
 
+}
+
+
+@media (width <= 320px){
+    .curr-music-details{
+    padding-inline: 10%;
+}
 }
