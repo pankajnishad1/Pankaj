@@ -462,7 +462,7 @@ p{
 }
 .curr-music-details{
     width: 100%;
-    padding-inline: 2.5rem;
+    padding-inline: 4rem;
     position: relative;
     & .play-text{
         margin-top: 2rem;
@@ -477,7 +477,7 @@ p{
 }
 .btns-likes-share{
     position: absolute;
-    left: 16rem;
+    left: 20rem;
     top: 0rem;
 
     & .icons {
