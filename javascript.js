@@ -5,7 +5,7 @@ const arrsong = [
     {image:'assets/images/animal.jpg',songName:'animal',song:'assets/songs/Arjan Vailly Ne.mp3',singerName:'bhupinder babbal'},
     {image:'assets/images/ram.jpg',songName:'Ram siya ram',song:'assets/songs/Ram Siya Ram.mp3',singerName:'sachet tandon'},
     {image:'assets/images/Aakhir_Tumhein_Aana_Hai.jpeg',songName:'Aakhir Tumhein Aana Hai',song:'assets/songs/Aakhir Tumhein Aana Hai.mp3',singerName:' Udit Narayan '},
-    {image:'assets/images/Aaye_Ho_MeriZindagi_Mein.jpeg',songName:'Aaye Ho Meri Zindagi Mein',song:'assets/songs/Aaye Ho Meri Zindagi Mein - Male Version.mp3',singerName:' Udit Narayan '},
+    {image:'assets/images/Aaye_Ho_Meri Zindagi_Mein.jpeg',songName:'Aaye Ho Meri Zindagi Mein',song:'assets/songs/Aaye Ho Meri Zindagi Mein - Male Version.mp3',singerName:' Udit Narayan '},
     {image:'assets/images/Mere_Mehboob_Qayamat_Hogi.jpeg',songName:'Mere Mehboob Qayamat Hogi',song:'assets/songs/Mere Mehboob Qayamat Hogi.mp3',singerName:'kishore kumar'},
     {image:'assets/images/Meri_Bheegi_Bheegi_Si.jpeg',songName:'Meri Bheegi Bheegi Si',song:'assets/songs/Meri Bheegi Bheegi Si.mp3',singerName:'kishore kumar'},
     {image:'assets/images/Is_Tarah_Aashiqui_ka.jpeg',songName:'Is Tarah Aashiqui ka',song:'assets/songs/Is Tarah Aashiqui Ka - Kumar Sanu Version.mp3',singerName:'Kumar Sanu '},
