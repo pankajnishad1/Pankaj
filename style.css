@@ -380,6 +380,7 @@ p{
     height: 45rem;
     padding-top: 5rem;
     flex-direction: column;
+    
 }
 .curr-music-img-container{
     width: 95%;
@@ -392,7 +393,7 @@ p{
 }
 .curr-music-details{
     width: 100%;
-    padding-inline: 8rem;
+    padding-inline: 22%;
     position: relative;
     & .play-text{
         margin-top: 2rem;
@@ -407,7 +408,7 @@ p{
 }
 .btns-likes-share{
     position: absolute;
-    left: 22rem;
+    left: 58%;
     top: 0rem;
 
     & .icons {
@@ -432,7 +433,7 @@ p{
 
 
 
-@media (width <= 380px) {
+@media (width <= 395px) {
 
 h1,
 h2,
@@ -462,7 +463,7 @@ p{
 }
 .curr-music-details{
     width: 100%;
-    padding-inline: 4rem;
+    padding-inline: 16%;
     position: relative;
     & .play-text{
         margin-top: 2rem;
@@ -477,7 +478,7 @@ p{
 }
 .btns-likes-share{
     position: absolute;
-    left: 20rem;
+    left: 58%;
     top: 0rem;
 
     & .icons {
